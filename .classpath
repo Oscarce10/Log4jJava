@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TipoMensajesLog4/src"/>
+	<classpathentry kind="lib" path="TipoMensajesLog4/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="TipoMensajesLog4/bin"/>
+</classpath>

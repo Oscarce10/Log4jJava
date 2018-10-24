@@ -1,0 +1,49 @@
+269 sep 2018 - 22:21:43 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+269 sep 2018 - 22:21:43 [DEBUG] LoggerArchivo.class - La base es: 2.0
+269 sep 2018 - 22:21:43 [DEBUG] LoggerArchivo.class - El exponente es: 3.0
+269 sep 2018 - 22:21:43 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 8.0
+269 septiembre 2018 - 22:22:43 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+269 septiembre 2018 - 22:22:43 [DEBUG] LoggerArchivo.class - La base es: 1.0
+269 septiembre 2018 - 22:22:43 [DEBUG] LoggerArchivo.class - El exponente es: 1.0
+269 septiembre 2018 - 22:22:43 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 1.0
+269 09 2018 - 22:23:31 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+269 09 2018 - 22:23:31 [DEBUG] LoggerArchivo.class - La base es: 12.0
+269 09 2018 - 22:23:31 [DEBUG] LoggerArchivo.class - El exponente es: 2.0
+269 09 2018 - 22:23:31 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 144.0
+269 sep 18 - 22:23:59 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+269 sep 18 - 22:23:59 [DEBUG] LoggerArchivo.class - La base es: 1.0
+269 sep 18 - 22:23:59 [DEBUG] LoggerArchivo.class - El exponente es: 0.0
+269 sep 18 - 22:23:59 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 1.0
+269 sep 18 - 22:24:03 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+269 sep 18 - 22:24:03 [ERROR] LoggerArchivo.class - Error: java.lang.NumberFormatException: For input string: "f"
+2018-09-26 22:24:30,656 {DD MMM YY - HH:mm:ss} [INFO ] LoggerArchivo.class - Potencia de dos numeros
+2018-09-26 22:24:30,659 {DD MMM YY - HH:mm:ss} [DEBUG] LoggerArchivo.class - La base es: 2.0
+2018-09-26 22:24:30,659 {DD MMM YY - HH:mm:ss} [DEBUG] LoggerArchivo.class - El exponente es: 3.0
+2018-09-26 22:24:30,659 {DD MMM YY - HH:mm:ss} [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 8.0
+2018-09-26 22:27:02,750 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+2018-09-26 22:27:02,752 [DEBUG] LoggerArchivo.class - La base es: 1.0
+2018-09-26 22:27:02,752 [DEBUG] LoggerArchivo.class - El exponente es: 1.0
+2018-09-26 22:27:02,752 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 1.0
+26 sep 2018 - 22:28:55 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26 sep 2018 - 22:28:55 [DEBUG] LoggerArchivo.class - La base es: 12.0
+26 sep 2018 - 22:28:55 [DEBUG] LoggerArchivo.class - El exponente es: 2.0
+26 sep 2018 - 22:28:55 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 144.0
+26/sep/2018 - 10:29:44 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26/sep/2018 - 10:29:44 [DEBUG] LoggerArchivo.class - La base es: 2.0
+26/sep/2018 - 10:29:44 [DEBUG] LoggerArchivo.class - El exponente es: 2.0
+26/sep/2018 - 10:29:44 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 4.0
+26/sep/2018 - 22:030:35 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26/sep/2018 - 22:030:35 [DEBUG] LoggerArchivo.class - La base es: 3.0
+26/sep/2018 - 22:030:35 [DEBUG] LoggerArchivo.class - El exponente es: 3.0
+26/sep/2018 - 22:030:35 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 27.0
+26/sep/2018 - 22:09:01 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26/sep/2018 - 22:09:01 [DEBUG] LoggerArchivo.class - La base es: 1.0
+26/sep/2018 - 22:09:01 [DEBUG] LoggerArchivo.class - El exponente es: 1.0
+26/sep/2018 - 22:09:01 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 1.0
+2018-09-26 22:31:57,9322018-09-26 22:31:57,9642018-09-26 22:32:02,5632018-09-26 22:32:02,56426/sep/2018 - 22:09:38 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26/sep/2018 - 22:09:38 [ERROR] LoggerArchivo.class - Error: java.lang.NumberFormatException: empty String
+26/sep/2018 - 22:09:33 [INFO ] LoggerArchivo.class - Potencia de dos numeros
+26/sep/2018 - 22:09:33 [DEBUG] LoggerArchivo.class - La base es: 1.0
+26/sep/2018 - 22:09:33 [DEBUG] LoggerArchivo.class - El exponente es: 2.0
+26/sep/2018 - 22:09:33 [DEBUG] LoggerArchivo.class - La potencia de los dos numeros es: 1.0
+26/sep/2018 - 22:09:33 [DEBUG] LoggerArchivo.class - Operacion potencia realizada
